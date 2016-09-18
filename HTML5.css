@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+	height: 100px;
+	background-color:#FFC;
+}
+nav ul li{
+	background-color:#FF0;
+	float:left;
+	height:30px;
+	line-height:30px;
+	list-style-type:none;
+	margin:0 20px;
+}
+div {
+	height: 1000px;
+	margin-top: 10px;
+}
+section {
+	height: 1000px;
+	width: 70%;
+	background-color: #FFC;
+	float: left;
+}
+article{
+	background-color:#9F9;
+	color:#F3C;
+	width:500px;
+	margin:0 auto;
+	text-align:center;
+}
+aside {
+	height: 1000px;
+	width: 28%;
+	background-color: #FFC;
+	float: right;
+}
+footer {
+	height: 100px;
+	background-color: #FFC;
+	margin-top: 10px;
+	clear:float;
+}
+
